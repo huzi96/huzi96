@@ -6,6 +6,11 @@ filetype on
 " auto plugin according to filetype
 filetype plugin on
 
+set ts=4
+set sw=4
+set expandtab
+set autoindent
+
 " jump to line begin and end
 nmap LB 0
 nmap LE $
